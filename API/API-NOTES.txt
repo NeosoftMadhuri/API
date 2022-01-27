@@ -1,0 +1,29 @@
+API-Application Programming interface is an s/w interface that allow Application to interface with each other without any user intervtion.It is a collection of 
+
+function.It is code that can be accesed or executed.
+
+It helps two different s/w to communicate and exchange data with each other.
+
+Web APIs-
+->Server Side:-develop in backend part..in format JSON or XML
+
+->cLIENT sIDE:-extend functionality within a web browser of HTTP cLIENT
+  EG:Google Map api,Youtub api,amozon api
+
+API testing Tools:-
+
+-->Postmoan,vrest,ping-api
+-->Soap and Rest API
+
+Soap:-Simple boject Access Protocol
+REST:-Representaational State Transfer
+-->Soap ap has an oficial standard becouse it is a protocol while Rest api has
+   no official standard(it is an architectural style)
+
+-->Soap uses only Http and XML whie Rest uses http,json,xml.url for data commication and transfer.
+
+Express js we can define route as a api
+app.METHOD(url,callback)
+ ->method:-get post ,put, delete
+
+ 
